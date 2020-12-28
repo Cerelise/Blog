@@ -1,0 +1,30 @@
+{
+  "id": "2101849",
+  "name": "Cerelise_blog",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "418344",
+      "name": "打赏",
+      "font_class": "dashang",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "2794286",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6834146",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    }
+  ]
+}

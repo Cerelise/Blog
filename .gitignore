@@ -1,0 +1,22 @@
+# 后端忽略
+/Cerelise_site/db.sqlite3
+/Cerelise_site/dwebsite/__pycache__
+/Cerelise_site/blog/migrations
+/Cerelise_site/blog/__pycache__
+/Cerelise_site/db2.sqlite3
+/Cerelise_site/Cerelise_site/settings.py
+#前端
+/cerelise_page/node_modules
+/cerelise_page/dist
+
+# local env files
+/cerelise_page/.env.local
+/cerelise_page/.env.*.local
+
+# Log files
+/cerelise_page/npm-debug.log*
+/cerelise_page/yarn-debug.log*
+/cerelise_page/yarn-error.log*
+
+# 其他
+/.vscode
